@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juniors719&label=Profile%20views&color=0e75b6&style=flat" alt="juniors719" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juniors719" alt="juniors719" /></a> </p>
-
 - 🌱 I’m currently learning **POO, ED, etc...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@devjunior719" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@devjunior719" height="30" width="40" /></a>
+<a href="https://twitter.com/devjunior719" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devjunior719" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/júnior-silva-748270273/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/júnior-silva-748270273/" height="30" width="40" /></a>
 <a href="https://instagram.com/juniorsilva.png" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juniorsilva.png" height="30" width="40" /></a>
 <a href="https://www.behance.net/juniorsilvadsgnr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="juniorsilvadsgnr" height="30" width="40" /></a>
