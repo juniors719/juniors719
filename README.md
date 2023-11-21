@@ -10,11 +10,13 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/juniors719" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/juniors719" height="30" width="40" /></a>
+<a href="https://dev.to/juniors719" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="juniors719" height="30" width="40" /></a>
 <a href="https://twitter.com/devjunior719" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devjunior719" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/júnior-silva-748270273/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/júnior-silva-748270273/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/juniorsilva.png/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/juniorsilva.png/" height="30" width="40" /></a>
 <a href="https://www.behance.net/https://www.behance.net/juniorsilvadsgnr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/juniorsilvadsgnr" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/https://codeforces.com/profile/junior719" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/junior719" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/juniors719" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="juniors719" height="30" width="40" /></a>
 <a href="https://discord.gg/junior719" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="junior719" height="30" width="40" /></a>
 </p>
 
