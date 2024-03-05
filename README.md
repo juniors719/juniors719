@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juniors719&label=Profile%20views&color=0e75b6&style=flat" alt="juniors719" /> </p>
 
-- 🌱 I’m currently learning **Data Structures, Object Oriented Programming, C++ Advanced**
+- 🌱 I’m currently learning **Advanced Data Structures, Functional Programming, Automata, Web Development, Databases, Logic, Probability and Statistics**
 
 - 📫 How to reach me **junior.silva@alu.ufc.br**
 
