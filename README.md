@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou estudante de Ciência da Computação na UFC Quixadá e desenvolvedor com foco em backend. Tenho experiência com C++, Python, Java, JavaScript (Node.js) e desenvolvimento mobile com Kotlin. Gosto de resolver problemas e aprender coisas novas.</p>
+<p align="left">Sou estudante de Ciência da Computação na Universidade Federal do Ceará - Campus Quixadá, e sou desenvolvedor com foco em backend, mas com experiência também no front. Minhas principais linguagens são C++, Python, Java, JavaScript (Node.js) e desenvolvimento mobile com Kotlin. Gosto de resolver problemas e aprender coisas novas.</p>
 
 ###
 
